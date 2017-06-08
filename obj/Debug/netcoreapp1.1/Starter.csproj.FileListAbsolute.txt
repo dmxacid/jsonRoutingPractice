@@ -1,0 +1,8 @@
+C:\Users\ageso\Desktop\Rap\bin\Debug\netcoreapp1.1\Starter.deps.json
+C:\Users\ageso\Desktop\Rap\bin\Debug\netcoreapp1.1\Starter.runtimeconfig.json
+C:\Users\ageso\Desktop\Rap\bin\Debug\netcoreapp1.1\Starter.runtimeconfig.dev.json
+C:\Users\ageso\Desktop\Rap\obj\Debug\netcoreapp1.1\Starter.AssemblyInfo.cs
+C:\Users\ageso\Desktop\Rap\bin\Debug\netcoreapp1.1\Starter.dll
+C:\Users\ageso\Desktop\Rap\bin\Debug\netcoreapp1.1\Starter.pdb
+C:\Users\ageso\Desktop\Rap\obj\Debug\netcoreapp1.1\Starter.dll
+C:\Users\ageso\Desktop\Rap\obj\Debug\netcoreapp1.1\Starter.pdb
